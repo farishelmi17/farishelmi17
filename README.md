@@ -1,9 +1,27 @@
-- 👋 Hi, I’m **Muhammad Faris Kamal**, an Operation and Data Analyst.
-- 👀 I’m interested in Big Data, AI and Web3.
-- 🌱 I’m currently learning Python and R language.
-- 📫 You can reach me farishelmi17@gmail.com twitter: [@de_farishelmy](https://twitter.com/de_farishelmy) linkedin: [@fariskamal](https://www.linkedin.com/in/muhammad-faris-kamal/)
+# MyCTOS Score Report Replica
 
-<!---
-farishelmi17/farishelmi17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This project recreates the first five pages of the MyCTOS score report as a pixel-perfect JSX layout using React and Vite. All
+content, typography hierarchy and layout follow the original sample provided.
+
+## Getting Started
+
+1. Install dependencies
+
+   ```bash
+   npm install
+   ```
+
+2. Start the development server
+
+   ```bash
+   npm run dev
+   ```
+
+3. Build for production
+
+   ```bash
+   npm run build
+   ```
+
+> **Note:** The project references Google Fonts (`Source Sans 3` and `Source Serif 4`). Ensure you have network access when
+> running the development server to load them correctly.
